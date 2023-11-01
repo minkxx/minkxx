@@ -10,7 +10,7 @@
 
 ## 🔗 Connect with me
 
-<!-- png icons from https://iconscout.com/ -->1
+<!-- png icons from https://iconscout.com/ -->
 <a href="https://youtube.com/mnkxx69" class="padded"><img align="left" alt="minkxx" width="28px" src="./res/youtube.png" /></a> 
 <a href="https://telegram.dog/minkxx69" class="padded"><img align="left" alt="minkxx" width="28px" src="./res/telegram.png" /></a> 
 </br>
