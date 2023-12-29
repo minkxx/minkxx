@@ -18,6 +18,6 @@
 ---
 ## 🎵 Now playing
 
-[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31uynq4le2x5h7g2erg73nu2wzzy2)
+[![Spotify](https://.spotify-readme-new-two.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31uynq4le2x5h7g2erg73nu2wzzy2)
 
 ---
