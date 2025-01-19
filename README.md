@@ -5,7 +5,7 @@
 ## 🛠️ Languages and tools
 </br>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,git,github,heroku,redis,mongodb,html,py,js&perline=10)](https://t.me/minkxx69)
+[![Languages and Tools](https://skillicons.dev/icons?i=vscode,git,github,heroku,redis,mongodb,html,py,js,c&perline=10)](https://t.me/minkxx69)
 
 ## 📊 GitHub Stats
 
