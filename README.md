@@ -1,39 +1,23 @@
-<h1 align="center">Let's brainstorm a better tomorrow  :3</h1>
-<p align="left"> <img src="https://count.getloli.com/@:monsurcodes?name=%3Amonsurcodes&theme=minecraft&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0" alt="monsurcodes" /> </p>
+<div style="text-align: center;">
+ <img src="assets/main_banner.jpg" />
+</div>
 
-👨‍💻 **About me**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&vCenter=true&random=true&width=435&lines=Web+Developer;React+Native+Developer;Python+Developer)](https://git.io/typing-svg)
 
-A cat person.
+---
 
-Mid ahh programmer with procrastination issues. Love exploring different tech stacks.
-<hr/>
+## Skillset
 
-😻 **Loves to do**
-1. Building and documenting full-stack web projects using modern JavaScript frameworks.
-2. Improving Git workflow, including branching, pull requests, and version control best practices.
-3. Python Scripting
-4. Telegram Bot Development
-5. Taking inspirations from other developers
-6. Maintaining proper Project Structure
-7. Caffeine intake
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,react,tailwind,express,nodejs,nextjs,mongodb,mysql,git,)](https://skillicons.dev)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-[![Discord](https://lanyard.cnrad.dev/api/873832672424763404?idleMessage=%3ELet's%20brainstorm%20a%20better%20tomorrow%20%20%3A3)](https://discord.com/users/873832672424763404)
-</p>
+---
 
+## Projects
 
-<hr/>
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
-  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+[<img src="assets/kaiwa.png" width="100" />](https://github.com/monsurcodes/kaiwa)
 
-</p>
+---
 
-
-<h1></h1>
 <table>
   <tr>
     <td>
@@ -48,9 +32,3 @@ Mid ahh programmer with procrastination issues. Love exploring different tech st
   </tr>
 </table>
 <br />
-
-<div align="center">
-  <img align="left" src="https://github-readme-stats-minkxx.vercel.app/api/top-langs/?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&layout=donut" alt="Top Languages" width="38%" />
-</div>
-
-[![Spotify](https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True)](https://open.spotify.com/user/31uynq4le2x5h7g2erg73nu2wzzy)
