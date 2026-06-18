@@ -14,7 +14,7 @@
 
 ## Projects
 
-[<img src="assets/kaiwa.png" width="100" />](https://github.com/monsurcodes/kaiwa)
+[<img src="assets/kaiwa.png" width="100" />](https://github.com/minkxx/kaiwa)
 
 ---
 
@@ -22,11 +22,11 @@
   <tr>
     <td>
       
-[![Stats](https://github-readme-stats-minkxx.vercel.app/api?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-minkxx.vercel.app/api?username=monsurcodes&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+[![Stats](https://github-readme-stats-minkxx.vercel.app/api?username=minkxx&theme=blue-green&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-minkxx.vercel.app/api?username=minkxx&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
     </td>
    <td>
      
-[![GitHub Streak](https://github-readme-streak-stats-minkxx.vercel.app/?user=monsurcodes&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-minkxx.vercel.app/?user=minkxx&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
    </td>
 
   </tr>
