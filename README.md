@@ -8,7 +8,7 @@
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,js,c)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,c)](https://skillicons.dev)
 
 ## Library / Frameworks
 
@@ -25,7 +25,7 @@
 
 ## Tools
 
-[![Tools](https://skillicons.dev/icons?i=ts,postman,docker,pnpm,npm,bun)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postman,docker,pnpm,npm,bun)](https://skillicons.dev)
 
 ## IDEs
 
