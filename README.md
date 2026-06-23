@@ -6,9 +6,34 @@
 
 ---
 
-## Skillset
+## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,react,tailwind,express,nodejs,nextjs,mongodb,mysql,git,)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,c)](https://skillicons.dev)
+
+## Library / Frameworks
+
+[![Library](https://skillicons.dev/icons?i=react,express,nextjs,nestjs,electron,flask)](https://skillicons.dev)
+
+## Database / Cache
+
+[![Db](https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres)](https://skillicons.dev)
+
+## Version control
+
+[![vc](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
+
+
+## Tools
+
+[![Tools](https://skillicons.dev/icons?i=ts,postman,docker,pnpm,npm,bun)](https://skillicons.dev)
+
+## IDEs
+
+[![ide](https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,webstorm)](https://skillicons.dev)
+
+## OS
+
+[![os](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
 ---
 
