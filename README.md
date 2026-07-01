@@ -6,34 +6,9 @@
 
 ---
 
-## Languages
+## Tech Stack
 
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,c)](https://skillicons.dev)
-
-## Library / Frameworks
-
-[![Library](https://skillicons.dev/icons?i=react,express,nextjs,nestjs,electron,flask)](https://skillicons.dev)
-
-## Database / Cache
-
-[![Db](https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres)](https://skillicons.dev)
-
-## Version control
-
-[![vc](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev)
-
-
-## Tools
-
-[![Tools](https://skillicons.dev/icons?i=postman,docker,pnpm,npm,bun)](https://skillicons.dev)
-
-## IDEs
-
-[![ide](https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,webstorm)](https://skillicons.dev)
-
-## OS
-
-[![os](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,c,nodejs,react,express,nextjs,nestjs,electron,flask,mongodb,redis,mysql,postgres,git,github,githubactions,postman,docker,pnpm,npm,bun,vscode,androidstudio,pycharm,webstorm,windows,ubuntu)](https://skillicons.dev)
 
 ---
 
