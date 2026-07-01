@@ -8,7 +8,7 @@
 
 ## Tech Stack
 
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,c,nodejs,react,express,nextjs,nestjs,electron,flask,mongodb,redis,mysql,postgres,git,github,githubactions,postman,docker,pnpm,npm,bun,vscode,androidstudio,pycharm,webstorm,windows,ubuntu)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,c,nodejs,react,express,nextjs,nestjs,electron,flask,mongodb,redis,mysql,postgres,prisma,git,github,githubactions,postman,docker,pnpm,npm,bun,vscode,androidstudio,pycharm,webstorm,windows,ubuntu)](https://skillicons.dev)
 
 ---
 
