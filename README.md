@@ -22,13 +22,24 @@
   <tr>
     <td>
       
-[![Stats](https://github-readme-stats-minkxx.vercel.app/api?username=minkxx&theme=blue-green&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-minkxx.vercel.app/api?username=minkxx&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+[![Stats](https://minkxx-github-stats.vercel.app/api?username=minkxx&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/minkxx)
     </td>
    <td>
      
-[![GitHub Streak](https://github-readme-streak-stats-minkxx.vercel.app/?user=minkxx&theme=blue-green&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=minkxx&theme=react&hide_border=true)](https://streak-stats.demolab.com/?user=minkxx&theme=react&hide_border=true)
    </td>
 
+  </tr>
+
+  <tr>
+<td>
+      
+[![WakaTime](https://minkxx-github-stats.vercel.app/api/wakatime?username=minkxx&hide_title=true&langs_count=5&theme=react&hide_border=true)](https://minkxx-github-stats.vercel.app/api/wakatime?username=minkxx&hide_title=true&langs_count=5&theme=react&hide_border=true)
+    </td>
+<td>
+      
+[![Top Langs](https://minkxx-github-stats.vercel.app/api/top-langs?username=minkxx&layout=compact&hide_title=true&langs_count=4&theme=react&hide_border=true)](https://minkxx-github-stats.vercel.app/api/top-langs?username=minkxx&layout=compact&hide_title=true&langs_count=4&theme=react&hide_border=true)
+    </td>
   </tr>
 </table>
 <br />
