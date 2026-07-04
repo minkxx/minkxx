@@ -34,11 +34,11 @@
   <tr>
 <td>
       
-[![WakaTime](https://minkxx-github-stats.vercel.app/api/wakatime?username=minkxx&hide_title=true&langs_count=5&theme=react&hide_border=true)](https://minkxx-github-stats.vercel.app/api/wakatime?username=minkxx&hide_title=true&langs_count=5&theme=react&hide_border=true)
+[![WakaTime](https://minkxx-github-stats.vercel.app/api/wakatime?username=minkxx&langs_count=5&theme=react&hide_border=true)](https://minkxx-github-stats.vercel.app/api/wakatime?username=minkxx&langs_count=5&theme=react&hide_border=true)
     </td>
 <td>
       
-[![Top Langs](https://minkxx-github-stats.vercel.app/api/top-langs?username=minkxx&layout=compact&hide_title=true&langs_count=4&theme=react&hide_border=true)](https://minkxx-github-stats.vercel.app/api/top-langs?username=minkxx&layout=compact&hide_title=true&langs_count=4&theme=react&hide_border=true)
+[![Top Langs](https://minkxx-github-stats.vercel.app/api/top-langs?username=minkxx&layout=compact&langs_count=4&theme=react&hide_border=true)](https://minkxx-github-stats.vercel.app/api/top-langs?username=minkxx&layout=compact&langs_count=4&theme=react&hide_border=true)
     </td>
   </tr>
 </table>
