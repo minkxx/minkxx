@@ -26,7 +26,7 @@
     </td>
    <td>
      
-[![GitHub Streak](https://streak-stats.demolab.com/?user=minkxx&theme=react&hide_border=true)](https://streak-stats.demolab.com/?user=minkxx&theme=react&hide_border=true)
+[![GitHub Streak](https://minkxx-github-streak-stats.vercel.app/?user=minkxx&theme=react&hide_border=true)](https://minkxx-github-streak-stats.vercel.app/?user=minkxx&theme=react&hide_border=true)
    </td>
 
   </tr>
