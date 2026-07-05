@@ -22,7 +22,7 @@
   <tr>
     <td>
       
-[![Stats](https://minkxx-github-stats.vercel.app/api?username=minkxx&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/minkxx)
+[![Stats](https://minkxx-github-stats.vercel.app/api?username=minkxx&theme=react&show_icons=true&hide_border=true&count_private=true)](https://minkxx-github-stats.vercel.app/api?username=minkxx&theme=react&show_icons=true&hide_border=true&count_private=true)
     </td>
    <td>
      
