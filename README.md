@@ -2,7 +2,7 @@
  <img src="assets/main_banner.jpg" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Web+Developer;React+Native+Developer;Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&vCenter=true&random=true&width=435&lines=Web+Developer;React+Native+Developer;Python+Developer)](https://git.io/typing-svg)
 
 ---
 
