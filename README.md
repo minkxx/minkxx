@@ -18,28 +18,14 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      
-[![Stats](https://minkxx-github-stats.vercel.app/api?username=minkxx&theme=react&show_icons=true&hide_border=true&count_private=true)](https://minkxx-github-stats.vercel.app/api?username=minkxx&theme=react&show_icons=true&hide_border=true&count_private=true)
-    </td>
-   <td>
-     
-[![GitHub Streak](https://minkxx-github-streak-stats.vercel.app/?user=minkxx&theme=react&hide_border=true)](https://minkxx-github-streak-stats.vercel.app/?user=minkxx&theme=react&hide_border=true)
-   </td>
+<div style="display: flex; flex-direction: column; gap: 5px;">
+  <div style="display: flex; gap: 10px;">
+    <img src="https://minkxx-github-stats.vercel.app/api?username=minkxx&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Stats" style="width: 50%" />
+    <img src="https://minkxx-github-streak-stats.vercel.app/?user=minkxx&theme=react&hide_border=true" alt="Streaks" style="width: 50%" />
+  </div>
 
-  </tr>
-
-  <tr>
-<td>
-      
-[![WakaTime](https://minkxx-github-stats.vercel.app/api/wakatime?username=minkxx&langs_count=5&theme=react&hide_border=true)](https://minkxx-github-stats.vercel.app/api/wakatime?username=minkxx&langs_count=5&theme=react&hide_border=true)
-    </td>
-<td>
-      
-[![Top Langs](https://minkxx-github-stats.vercel.app/api/top-langs?username=minkxx&layout=compact&langs_count=4&theme=react&hide_border=true)](https://minkxx-github-stats.vercel.app/api/top-langs?username=minkxx&layout=compact&langs_count=4&theme=react&hide_border=true)
-    </td>
-  </tr>
-</table>
-<br />
+  <div style="display: flex; gap: 10px;">
+    <img src="https://minkxx-github-stats.vercel.app/api/wakatime?username=minkxx&langs_count=5&theme=react&hide_border=true" alt="WakaTime" style="width: 50%" />
+    <img src="https://minkxx-github-stats.vercel.app/api/top-langs?username=minkxx&layout=compact&langs_count=4&theme=react&hide_border=true" alt="Top Languages" style="width: 50%" />
+  </div>
+</div>
