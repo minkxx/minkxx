@@ -4,17 +4,28 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&vCenter=true&random=true&width=435&lines=Web+Developer;React+Native+Developer;Python+Developer)](https://git.io/typing-svg)
 
----
-
 ## Tech Stack
 
 [![Languages](https://skillicons.dev/icons?i=python,js,ts,c,nodejs,react,express,nextjs,nestjs,electron,flask,mongodb,redis,mysql,postgres,prisma,git,github,githubactions,postman,docker,pnpm,npm,bun,vscode,androidstudio,pycharm,webstorm,windows,ubuntu)](https://skillicons.dev)
 
----
-
 ## Projects
 
-[<img src="assets/kaiwa.png" width="100" />](https://github.com/minkxx/kaiwa)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/minkxx/kaiwa">
+        <img src="assets/kaiwa.png" width="96" /><br />
+        Kaiwa
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/minkxx/anime-discord-rpc">
+        <img src="assets/anime-rpc.png" width="96" /><br />
+        Anime Discord RPC
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
