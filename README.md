@@ -11,7 +11,7 @@
 
 ### About Me
 - 3rd-semester B.Tech Computer Science student.
-- Currently building **Attendr** (React Native) and scaling **Anime Discord RPC**.
+- Currently building **Attendr** (React Native) and scaling **AniKehai**.
 - Passionate about crafting minimal user experiences.
 - When I'm offline, I'm usually playing CS2 or grinding Minecraft.
 
@@ -38,9 +38,9 @@
       </a>
     </td>
     <td align="center" style="border: none; padding: 0 30px;">
-      <a href="https://github.com/minkxx/anime-discord-rpc" style="text-decoration: none;">
+      <a href="https://github.com/minkxx/AniKehai" style="text-decoration: none;">
         <img src="assets/anime-rpc.png" width="90" style="border-radius: 15px;" /><br />
-        <b>Anime RPC</b>
+        <b>AniKehai</b>
       </a>
     </td>
   </tr>
